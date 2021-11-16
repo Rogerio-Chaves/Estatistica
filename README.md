@@ -1,5 +1,15 @@
 # Estatistica
 
+## Antes de começar
+Para conseguir reproduzir os _notebooks_ são necessários:
+
+- Python instalado.
+- Jupyter notebook ou jupyter lab.
+- Alguns pacotes do python:
+  -  Numpy;
+  -  Pandas;
+  -  Matplotlib.
+
 ## Análise Exploratória de Dados
 [1. Classificação de variáveis](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Analise_Exploratoria_de_Dados/1.classificacao_variaveis.ipynb)
 
@@ -17,6 +27,12 @@
 [1.1. Modelo Uniforme](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.1.Modelo_Uniforme.ipynb)
 
 [1.2. Modelo Normal](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.2.Modelo_Normal.ipynb)
+
+[1.3. Modelo Exponencial](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.3.Modelo_Exponencial.ipynb)
+
+[1.4.Distribuicao_Gama](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.4.Distribuicao_Gama.ipynb)
+
+[1.5.Distribuicao_Qui_Quadrado](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.5.Distribuicao_Qui_Quadrado.ipynb)
 
 
 ### Variaveis Aleatorias Discretas
