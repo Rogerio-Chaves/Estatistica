@@ -1,9 +1,5 @@
 # Estatistica
 
-author: Rogerio Chaves
-
-E-mail: chaves.rogerio@outlook.com
-
 ## Análise Exploratória de Dados
 [1. Classificação de variáveis](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Analise_Exploratoria_de_Dados/1.classificacao_variaveis.ipynb)
 
@@ -18,9 +14,19 @@ E-mail: chaves.rogerio@outlook.com
 ## Probablilidade
 
 ### Variaveis Aleatorias Continuas
+[1.1. Modelo Uniforme](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.1.Modelo_Uniforme.ipynb)
+
+[1.2. Modelo Normal](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.2.Modelo_Normal.ipynb)
 
 
 ### Variaveis Aleatorias Discretas
 [1.2. Distribuição Bernoulli](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Discretas/1.2.Distribuicao_Bernoulli.ipynb)
 
 [1.5. Distribuição Poisson](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Discretas/1.5.Distribuicao_Poisson.ipynb)
+
+
+
+### Contribuidores
+autor: Rogerio Chaves
+
+E-mail: chaves.rogerio@outlook.com
