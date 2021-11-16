@@ -11,3 +11,12 @@
 
 [2.4. Tabela de Distribuição de Frequência - Variável Quantitativa Contínua](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Analise_Exploratoria_de_Dados/2.4.Tabela_de_Distribuicao_de_Frequencia.ipynb)
 
+## Probablilidade
+
+### Variaveis Aleatorias Continuas
+
+
+### Variaveis Aleatorias Discretas
+[1.2. Distribuição Bernoulli](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Discretas/1.2.Distribuicao_Bernoulli.ipynb)
+
+[1.5. Distribuição Poisson](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Discretas/1.5.Distribuicao_Poisson.ipynb)
