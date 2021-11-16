@@ -1,5 +1,8 @@
 # Estatistica
 
+## Objetivo
+Este repositório busca apresentar os conteúdos básicos de estatística, onde através dos _notebooks_ os conteúdos são abordados com o auxilio da linguagem Python e suas bibliotecas: numpy, pandas e matpltolib.
+
 ## Antes de começar
 Para conseguir reproduzir os _notebooks_ são necessários:
 
@@ -30,9 +33,9 @@ Para conseguir reproduzir os _notebooks_ são necessários:
 
 [1.3. Modelo Exponencial](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.3.Modelo_Exponencial.ipynb)
 
-[1.4.Distribuicao_Gama](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.4.Distribuicao_Gama.ipynb)
+[1.4. Distribuicao_Gama](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.4.Distribuicao_Gama.ipynb)
 
-[1.5.Distribuicao_Qui_Quadrado](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.5.Distribuicao_Qui_Quadrado.ipynb)
+[1.5. Distribuicao Qui-Quadrado](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.5.Distribuicao_Qui_Quadrado.ipynb)
 
 
 ### Variaveis Aleatorias Discretas
