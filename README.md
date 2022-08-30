@@ -28,23 +28,24 @@ Para conseguir reproduzir os _notebooks_ são necessários:
 
 ## Probablilidade
 
-### Variaveis Aleatorias Continuas
-[1.1.1. Modelo Uniforme](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.1.Modelo_Uniforme.ipynb)
-
-[1.1.2. Modelo Normal](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.2.Modelo_Normal.ipynb)
-
-[1.1.3. Modelo Exponencial](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.3.Modelo_Exponencial.ipynb)
-
-[1.1.4. Distribuicao Gama](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.4.Distribuicao_Gama.ipynb)
-
-[1.1.5. Distribuicao Qui-Quadrado](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.5.Distribuicao_Qui_Quadrado.ipynb)
-
-
 ### Variaveis Aleatorias Discretas
-[1.2.2. Distribuição Bernoulli](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Discretas/1.2.Distribuicao_Bernoulli.ipynb)
+[2.1.2. Distribuição Bernoulli](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Discretas/1.2.Distribuicao_Bernoulli.ipynb)
 
-[1.2.5. Distribuição Poisson](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Discretas/1.5.Distribuicao_Poisson.ipynb)
+[2.1.5. Distribuição Poisson](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Discretas/1.5.Distribuicao_Poisson.ipynb)
 
+### Variaveis Aleatorias Continuas
+[2.2.1. Modelo Uniforme](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.1.Modelo_Uniforme.ipynb)
+
+[2.2.2. Modelo Normal](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.2.Modelo_Normal.ipynb)
+
+[2.2.3. Modelo Exponencial](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.3.Modelo_Exponencial.ipynb)
+
+[2.2.4. Distribuicao Gama](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.4.Distribuicao_Gama.ipynb)
+
+[2.2.5. Distribuicao Qui-Quadrado](https://github.com/Rogerio-Chaves/Estatistica/blob/main/Probabilidade/Variaveis_Aleatorias_Continuas/1.5.Distribuicao_Qui_Quadrado.ipynb)
+
+
+## Inferência Estatística
 
 
 ### Contribuidores
