@@ -47,6 +47,8 @@ Para conseguir reproduzir os _notebooks_ são necessários:
 
 ## Inferência Estatística
 
+A seção de inferência estatística ainda será adicionada.
+
 
 ### Contribuidores
 autor: Rogerio Chaves
