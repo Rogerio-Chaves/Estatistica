@@ -16,15 +16,17 @@ Para conseguir reproduzir os _notebooks_ são necessários:
 ## Análise Exploratória de Dados
 [1.1. Classificação de variáveis]()
 
-[1.2. Medidas Resumo]()
+[1.2. Medidas de Posição (ou Tendência Central)]()
 
-[1.3. Tabela de Distribuição de Frequência - Variável Qualitativa Nominal]()
+[1.3. Medidas de Dispersão] ()
 
-[1.4. Tabela de Distribuição de Frequência - Variável Qualitativa Ordinal]()
+[1.4. Tabela de Distribuição de Frequência - Variável Qualitativa Nominal]()
 
-[1.5. Tabela de Distribuição de Frequência - Variável Quantitativa Discreta]()
+[1.5. Tabela de Distribuição de Frequência - Variável Qualitativa Ordinal]()
 
-[1.6 Tabela de Distribuição de Frequência - Variável Quantitativa Contínua]()
+[1.6. Tabela de Distribuição de Frequência - Variável Quantitativa Discreta]()
+
+[1.7 Tabela de Distribuição de Frequência - Variável Quantitativa Contínua]()
 
 ## Probablilidade
 
