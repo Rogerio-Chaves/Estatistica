@@ -18,7 +18,7 @@ Para conseguir reproduzir os _notebooks_ são necessários:
 
 [1.2. Medidas de Posição (ou Tendência Central)]()
 
-[1.3. Medidas de Dispersão] ()
+[1.3. Medidas de Dispersão]()
 
 [1.4. Tabela de Distribuição de Frequência - Variável Qualitativa Nominal]()
 
