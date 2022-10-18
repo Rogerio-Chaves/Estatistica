@@ -14,7 +14,7 @@ Para conseguir reproduzir os _notebooks_ são necessários:
   -  Matplotlib.
 
 ## Análise Exploratória de Dados
-[1.1. Classificação de variáveis](https://github.com/Rogerio-Chaves/Estatistica/blob/main/1.Analise_Exploratoria_de_Dados/1.1.Classificacao_Variaveis.ipynb)
+[1.1. Introdução](https://github.com/Rogerio-Chaves/Estatistica/blob/main/1.Analise_Exploratoria_de_Dados/1.1.Introducao.ipynb)
 
 [1.2. Medidas de Posição (ou Tendência Central)](https://github.com/Rogerio-Chaves/Estatistica/blob/main/1.Analise_Exploratoria_de_Dados/1.2.Medidas_Posicao.ipynb)
 
