@@ -1,4 +1,4 @@
-# Estatistica
+# Estatistica (Incompleto)
 
 ## Objetivo
 Este repositório busca apresentar os conteúdos básicos de estatística, onde através dos _notebooks_ os conteúdos são abordados com o auxilio da linguagem Python e suas bibliotecas: numpy, pandas e matplotlib.
